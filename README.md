@@ -1,2 +1,2 @@
 # Guessing-Game
-Assignment
+This is the Assignment of my course.
